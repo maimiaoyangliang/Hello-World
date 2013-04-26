@@ -1,5 +1,9 @@
 include<iostream>
 using namesplace std;
-heh 
+int main()
+{
+	cout<<"hello world...`";
+}
 
-this is just test
+
+
